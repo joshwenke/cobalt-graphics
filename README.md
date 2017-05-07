@@ -1,2 +1,1 @@
-# cobalt-graphics
-Cobalt's graphics and graphic packages.
+Originals (PSD files) will be posted once we redesign the logos for our 1.11/12 update.
